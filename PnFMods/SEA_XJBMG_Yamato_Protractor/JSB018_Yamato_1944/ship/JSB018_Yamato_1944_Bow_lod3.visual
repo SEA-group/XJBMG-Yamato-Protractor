@@ -62,8 +62,8 @@
 			</primitiveGroup>
 			<primitiveGroup>	1
 				<material>
-					<identifier>	SHIPMAT_PBS_AngleIndicator_Outer	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Yamato_Protractor/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_ring_outer.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_AngleIndicator_Inner	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Yamato_Protractor/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_ring_inner.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

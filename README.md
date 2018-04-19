@@ -1,4 +1,4 @@
-﻿# Yamato with angle indicator
+﻿# Yamato with protractor
 
 ======================Presented by SEA group======================
 
